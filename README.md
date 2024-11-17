@@ -11,16 +11,5 @@ PrimeGuard is a comprehensive online tool designed to help users identify and av
 - **Educational Resources:** Learn how to identify and avoid common scams.
 - **Secure Platform:** Built with strong security protocols to protect user data.
 
-## Getting Started
-
-### Prerequisites
-
-- .NET 6.0 SDK
-- SQL Server
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/wizcan/PrimeGuard.git
-   cd PrimeGuard
+## Visit PrimeGuard
+ https://primeguard.wix.com
